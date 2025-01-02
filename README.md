@@ -73,7 +73,7 @@ Textualize is responsible for creating frameworks / projects like:
 - [Fspicker](https://github.com/davep/textual-fspicker) - A Textual widget library for picking things in the filesystem.
 - [Datepicker](https://github.com/mitosch/textual-datepicker) - A datepicker for textual.
 - [Frogmouth](https://github.com/Textualize/frogmouth) - A Markdown browser for your terminal.
-- [Pain](https://github.com/1j01/textual-paint) - 🎨 MS Paint.<!--lint ignore no-repeat-punctuation-->.<!--lint ignore no-repeat-punctuation-->. in your terminal.
+- [Paint](https://github.com/1j01/textual-paint) - 🎨 MS Paint.<!--lint ignore no-repeat-punctuation-->.<!--lint ignore no-repeat-punctuation-->. in your terminal.
 - [RecoverPy](https://github.com/PabloLec/RecoverPy) - Interactively find and recover deleted or overwritten files from your terminal.
 - [Logmerger](https://github.com/ptmcg/logmerger) - TUI utility to view multiple log files with merged timeline.
 - [Palettepal](https://github.com/cdelker/palettepal) - Terminal-Based Color Editor and Palette Generator.
